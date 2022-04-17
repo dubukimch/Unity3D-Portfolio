@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Albino_Dragon_Right
+  - Albino_Dragon
+  - Monster_Attack
+  - FxTemporaire
+  - Albino_Dragon_Left
+  - Enemy_Bottom
+  - Enemy_Player
+  - Enemy
+  - Our
+  - Enemy_Top
+  - Enemy_Support
+  - MiddleForetop
+  - Enemy_Middle
+  - Enemy_Right_ForeTop
+  - PRBCharacter_Bullet
+  - Collide
+  - LeftForetop
+  - RightForetop
+  - Shot_Effect
+  - UI_Effect
+  - Middle_Zone
+  - Left_Zone
+  - Enemy_Escape_Pos
+  - Enemy_Left_ForeTop
+  - Right_Zone
+  - Owr_Right_ForeTop
+  - Owr_Last_ForeTop
+  - Enemy_Middle_ForeTop
+  - Enemy_Last_ForeTop
+  - Owr_Left_ForeTop
+  - Owr_Middle_ForeTop
+  - Enemy_Poison_Attack
+  - Enemy_Jungle
+  - Enemy_Hp_Monster
+  - Our_Hp_Monster
+  - Enemy_Mp_Monster
+  - Our_Mp_Monster
+  - Our_Middle
+  - Our_Top
+  - Our_Bottom
+  - Our_Jungle
+  - Our_Support
+  - Our_Escape_Pos
+  - Our_Player
+  - Our_PBRCharacter_Bullet
+  - SFXSoundPlayer
+  - BGMSoundPlayer
+  - SoundManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player_Attack
+  - Terrian
+  - MiniMap
+  - Minion
+  - Player
+  - Monster_Attack
+  - Own_Attack
+  - Enemy_Attack
+  - Dragon
+  - Enemy
+  - Item
+  - Monster
+  - Our
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
