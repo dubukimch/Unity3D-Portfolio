@@ -4,6 +4,7 @@
 ### Unity3D로 제작된 AOS 장르의 게임포트폴리오 입니다.
 
 ### 리그 오브 레전드 또는 얼티밋 스쿨 게임을 바탕으로 저만의 AOS장르 게임을 만들어 보았습니다.
+![image](https://github.com/user-attachments/assets/3a113373-0aad-4ea0-870e-7f5b4beb24db)
 
 
 ## <프로젝트 개요>
